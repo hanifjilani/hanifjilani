@@ -1,4 +1,4 @@
-## Hanif Jilani
+## Hi Everyone! 👋
 
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "50" height = "40"/>
 <br>
