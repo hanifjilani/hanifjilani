@@ -23,7 +23,7 @@
   <img alt = "WordPress" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
-<img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=hanifjilani">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hanifjilani" />
 <!--
 **hanifjilani/hanifjilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
