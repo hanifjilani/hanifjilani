@@ -1,8 +1,8 @@
 ## Hi, I'm Hanif Jilani! 👋
 
-<img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "70" height = "60"/>
+<img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "80" height = "60"/>
 <br>
-<p>I am student at the University of Michigan Ann Arbor studying Computer Science Engineering. I have always been curious about the various softwares we use in our day-to-day life, how they were made, how to make something that useful to humanity as well.
+<p>I am student at the <b>University of Michigan Ann Arbor</b> studying Computer Science Engineering. I have always been curious about the various softwares we use in our day-to-day life, how they were made, how to make something that useful to humanity as well.
 
 I learned to code on my own during the end of middle school using Udemy courses and youtube videos. I started with web development (HTML, CSS & JS) since I had a design background. I then moved to Nodejs, which is the framework I spent the most time on. The ability to use APIs to create hundreds of wonderful, useful and powerful applications felt like a dream. After going to Umich, I also started learning and mastering C++ for coursework.
 
