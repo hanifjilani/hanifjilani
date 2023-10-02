@@ -27,9 +27,9 @@ I always have a huge interest and passion when it comes to Computer Science and 
 </p>
 <h3>Upcoming Projects</h3>
 <ul>
-  <li>**Euchre** - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
-  <li>**Office Hour Queue**- Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
-   <li>**Post Reader** - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
+  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
+  <li><b>Office Hour Queue</b> - Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
+   <li><b>Post Reader</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
 </ul>
 <h3>My Youtube CS Tutorials</h3>
 <ul>
