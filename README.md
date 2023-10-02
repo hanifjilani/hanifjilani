@@ -2,7 +2,9 @@
 
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "50" height = "40"/>
 <br>
-<p>I am student at the University of Michigan Ann Arbor studying Computer Science Engineering. </p>
+<p>I am student at the University of Michigan Ann Arbor studying Computer Science Engineering. I have always been curious about the various softwares we use in our day-to-day life, how they were made, how to make something that useful to humanity as well.
+
+I always have a huge interest and passion when it comes to Computer Science and this persistence helps me solve the problems, achive the goals and the quality of code I want.</p>
 <h3>Languages and Tools</h3>
 <p>
   <img alt = "C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
