@@ -26,7 +26,8 @@
 <h3>My Youtube CS Tutorials</h3>
 <ul>
   <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
-  <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
+  <li><a href="https://youtu.be/wVOgch_uusg">How to create your own Weather Website using Nodejs</a></li>
+  <li><a href="https://youtu.be/KM-_AN2NCno">Insane Transformation of the weather website using HTML & CSS!</a></li>
 </ul>
 <!--
 **hanifjilani/hanifjilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
