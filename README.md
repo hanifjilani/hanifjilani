@@ -25,6 +25,13 @@ I always have a huge interest and passion when it comes to Computer Science and 
   <img alt = "WordPress" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
+<h3>Upcoming Projects</h3>
+<ul>
+  <li>Euchre - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
+  <li>Office Hour Queue- Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
+  <li>Office Hour Queue- Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
+   <li>Post Reader - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
+</ul>
 <h3>My Youtube CS Tutorials</h3>
 <ul>
   <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
