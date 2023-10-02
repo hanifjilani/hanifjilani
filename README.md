@@ -1,6 +1,6 @@
 ## Hi, I'm Hanif Jilani! 👋
 
-<img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "50" height = "40"/>
+<img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "70" height = "60"/>
 <br>
 <p>I am student at the University of Michigan Ann Arbor studying Computer Science Engineering. I have always been curious about the various softwares we use in our day-to-day life, how they were made, how to make something that useful to humanity as well.
 
