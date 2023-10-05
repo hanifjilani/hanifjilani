@@ -39,7 +39,7 @@ I always have a huge interest and passion when it comes to Computer Science and 
   <li><b>Office Hour Queue</b> - Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
    <li><b>Post Reader</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
 </ul>
-<p><b><i>Note:</i></b> The umich coding class projects are in private repositories as a part of the honor code of University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. So, if you are a employer/recruiter and want to see my work, please reach out to me!</p>
+<p><i><b>Note:</b> The umich coding class projects are in private repositories as a part of the honor code of University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. So, if you are a employer/recruiter and want to see my work, please reach out to me!</i></p>
 <h3>My Youtube CS Tutorials</h3>
 <ul>
   <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
