@@ -35,9 +35,9 @@ I always have a huge interest and passion when it comes to Computer Science and 
 </ul>
 <h3>Upcoming Projects</h3>
 <ul>
-  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
+  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) (Umich Coding Class)</li>
   <li><b>Office Hour Queue</b> - Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
-   <li><b>Post Reader</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
+   <li><b>Post Reader</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website (Umich Coding Class)</li>
 </ul>
 <p><i><b>Note:</b> The umich coding class projects are in private repositories as a part of the honor code of University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. So, if you are a employer/recruiter and want to see my work, please reach out to me!</i></p>
 <h3>My Youtube CS Tutorials</h3>
