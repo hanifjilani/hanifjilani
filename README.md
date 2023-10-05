@@ -27,12 +27,19 @@ I always have a huge interest and passion when it comes to Computer Science and 
   <img alt = "WordPress" src = "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
+<h3>Completed Projects</h3>
+<ul>
+  <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. It also has a about me, a connect me page connected to my email and a Blog page.</li>
+  <li><b>Sheetbot</b> - A dialogflow (NLP based chatbot generator) fulfillment project that connects google sheets to dialogflow using nodejs</li>
+   <li><b>Computer Vision</b> Image Resizing Program using a Seam-Carving Algorithm (C++) - EECS 280 (Umich Coding Class) </li>
+</ul>
 <h3>Upcoming Projects</h3>
 <ul>
   <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
   <li><b>Office Hour Queue</b> - Building a web server for the Office Hour Queue of EECS 280 (Umich Coding Class)</li>
    <li><b>Post Reader</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website</li>
 </ul>
+<p><b><i>Note:</i></b> The umich coding class projects are in private repositories as a part of the honor code of University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. So, if you are a employer/recruiter and want to see my work, please reach out to me!</p>
 <h3>My Youtube CS Tutorials</h3>
 <ul>
   <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
