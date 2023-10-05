@@ -31,7 +31,7 @@ I always have a huge interest and passion when it comes to Computer Science and 
 <ul>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. It also has a about me, a connect me page connected to my email and a Blog page.</li>
   <li><b>Sheetbot</b> - A dialogflow (NLP based chatbot generator) fulfillment project that connects google sheets to dialogflow using nodejs</li>
-   <li><b>Computer Vision</b> Image Resizing Program using a Seam-Carving Algorithm (C++) - EECS 280 (Umich Coding Class) </li>
+   <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) - EECS 280 (Umich Coding Class) </li>
 </ul>
 <h3>Upcoming Projects</h3>
 <ul>
