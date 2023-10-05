@@ -30,7 +30,7 @@ I always have a huge interest and passion when it comes to Computer Science and 
 <h3>Completed Projects</h3>
 <ul>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. Link: https://github.com/hanifjilani/weathry
-  <li><b>Sheetbot</b> - A dialogflow (NLP based chatbot generator) fulfillment project that connects google sheets to dialogflow using nodejs</li>
+  <li><b>Sheetbot</b> - A dialogflow (NLP based chatbot generator) fulfillment project that connects google sheets to dialogflow using nodejs. Link: https://github.com/hanifjilani/sheetbot</li>
    <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) - EECS 280 (Umich Coding Class) </li>
   <li><b>The Amaanat</b> - This is a HTML/CSS info website for a Women's NGO.</li>
 </ul>
