@@ -29,6 +29,7 @@ I always have a huge interest and passion when it comes to Computer Science and 
 </p>
 <h3>Completed Projects</h3>
 <ul>
+  <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. The application morphs a given begin word into an end word utilizing words from a given dictionary. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. Successfully navigated linguistic challenges, showcasing proficiency in C++ and algorithmic problem-solving.
   <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) (Umich Coding Class)</li>
   <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differientiate between different posts from a Social Media Website (Umich Coding Class)</li>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. Link: https://github.com/hanifjilani/weathry
