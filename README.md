@@ -30,6 +30,7 @@ I always have a huge interest and passion when it comes to Computer Science and 
 </p>
 <h3>Completed Projects</h3>
 <ul>
+  <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. (Umich Coding Class)</li>
   <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in Eecs281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities. (Umich Coding Class)</li>
   <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions (Umich Coding Class)</li>
   <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. (Umich Coding Class</li>
