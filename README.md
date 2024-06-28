@@ -10,7 +10,7 @@
 
 🌐 Feel free to check out my repositories to see what I've been working on. I'm always open to feedback, collaboration, and new opportunities. Let's connect and build something amazing together!
 </p>
-<h3>Languages and Tools</h3>
+<h3>🔧 Languages and Tools</h3>
 <p>
   <img alt = "C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt = "Python" src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
