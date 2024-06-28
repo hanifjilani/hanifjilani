@@ -30,7 +30,7 @@
   <img alt = "VSCode" src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
-<h3><img src = "https://img.icons8.com/?size=100&id=OvlLY7z981ra&format=png&color=000000" /> Completed Projects</h3>
+<h3>📝 Completed Projects</h3>
 <ul>
   <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
   <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals. <em>(UofM EECS 485 - Web Systems)</em></li>
