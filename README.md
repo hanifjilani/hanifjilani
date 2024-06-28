@@ -9,7 +9,7 @@
 💡 When I'm not coding, you can find me participating in chess competitions, reading sci-fi books, contributing to open-source projects, or collaborating with fellow students on exciting research initiatives. I am a self-learnt programmer, so I constantly seeking to expand my knowledge and stay updated with the latest trends in the tech industry.
 
 🌐 Feel free to check out my repositories to see what I've been working on. I'm always open to feedback, collaboration, and new opportunities. Let's connect and build something amazing together!
-</p>
+</p><br>
 <h3>🔧 Languages and Tools</h3>
 <p>
   <img alt = "C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
