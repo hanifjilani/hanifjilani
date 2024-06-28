@@ -3,7 +3,6 @@
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "90" height = "60"/>
 <br>
  <p>A passionate Computer Science Engineering student at the <b>University of Michigan - Ann Arbor</b>. Currently, I'm a rising junior, eagerly diving into the world of coding, algorithms, and software development.</p>
-  <br><br>
   <p>
 🚀 I love exploring new technologies and building innovative projects that solve real-world problems. Whether it's developing web applications, games, software development, or delving into data structures and algorithms, I'm always up for a challenge.
 
