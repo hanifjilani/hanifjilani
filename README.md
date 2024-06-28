@@ -2,11 +2,14 @@
 
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "90" height = "60"/>
 <br>
-<p>I am student at the <b>University of Michigan Ann Arbor</b> studying Computer Science Engineering. I have always been curious about the various software we use daily, how they were made, and how to make something like that.
+ <p>A passionate Computer Science Engineering student at the <b>University of Michigan - Ann Arbor</b>. Currently, I'm a rising junior, eagerly diving into the world of coding, algorithms, and software development.
 
-I learned to code by myself at the end of middle school using Udemy courses and YouTube videos. I started with web development (HTML, CSS & JS) since I had a design background. I then moved to Nodejs, which I spent the most time on. The ability to use APIs to create hundreds of wonderful, useful, and powerful applications felt like a dream. Another section of CS I ventured into was NLP. I discovered that I could create chatbots using a software called DialogFlow. I then used Nodejs and Dialogflow to make some powerful and dynamic chatbots. After going to Umich, I also started learning and mastering C++ for coursework.
+🚀 I love exploring new technologies and building innovative projects that solve real-world problems. Whether it's developing web applications, games, software development, or delving into data structures and algorithms, I'm always up for a challenge.
 
-I always have a huge interest and passion when it comes to Computer Science and this persistence helps me solve problems and achieve the goals I want to.</p>
+💡 When I'm not coding, you can find me participating in chess competitions, reading sci-fi books, contributing to open-source projects, or collaborating with fellow students on exciting research initiatives. I am a self-learnt programmer, so I constantly seeking to expand my knowledge and stay updated with the latest trends in the tech industry.
+
+🌐 Feel free to check out my repositories to see what I've been working on. I'm always open to feedback, collaboration, and new opportunities. Let's connect and build something amazing together!
+</p>
 <h3>Languages and Tools</h3>
 <p>
   <img alt = "C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
