@@ -3,7 +3,6 @@
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "90" height = "60"/>
 <br>
  <p>A passionate Computer Science Engineering student at the <b>University of Michigan - Ann Arbor</b>. Currently, I'm a rising junior, eagerly diving into the world of coding, algorithms, and software development.
-<img src = "https://img.icons8.com/?size=100&id=OvlLY7z981ra&format=png&color=000000" />
 🚀 I love exploring new technologies and building innovative projects that solve real-world problems. Whether it's developing web applications, games, software development, or delving into data structures and algorithms, I'm always up for a challenge.
 
 💡 When I'm not coding, you can find me participating in chess competitions, reading sci-fi books, contributing to open-source projects, or collaborating with fellow students on exciting research initiatives. I am a self-learnt programmer, so I constantly seeking to expand my knowledge and stay updated with the latest trends in the tech industry.
@@ -31,7 +30,7 @@
   <img alt = "VSCode" src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
-<h3>Completed Projects</h3>
+<h3><img src = "https://img.icons8.com/?size=100&id=OvlLY7z981ra&format=png&color=000000" /> Completed Projects</h3>
 <ul>
   <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
   <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals. <em>(UofM EECS 485 - Web Systems)</em></li>
