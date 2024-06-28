@@ -30,18 +30,19 @@ I always have a huge interest and passion when it comes to Computer Science and 
 </p>
 <h3>Completed Projects</h3>
 <ul>
-  <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. (Umich Coding Class)</li>
-  <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in Eecs281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities. (Umich Coding Class)</li>
-  <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions (Umich Coding Class)</li>
-  <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. (Umich Coding Class</li>
-  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) (Umich Coding Class)</li>
-  <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differentiate between different posts from a Social Media Website (Umich Coding Class)</li>
+  <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
+  <li><b>insta485 Instagram Clone</b> - Built an Instagram clone using client-side dynamic pages and a REST API. Constructed a full-stack web app similar to Instagram to enable users to create posts, comments, and personalized profiles using Flask and React frameworks. <em>(UofM EECS 485 - Web Systems)</em></li>
+  <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in Eecs281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities. <em>(UofM EECS 281 - Advanced DSA)</em></li>
+  <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions <em>(UofM EECS 281 - Advanced DSA)</em></li>
+  <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. <em>(UofM EECS 281 - Advanced DSA)</em></li>
+  <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differentiate between different posts from a Social Media Website <em>(UofM EECS 280 - DSA)</em></li>
+  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) <em>(UofM EECS 280 - DSA)</em></li>
+  <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) <em>(UofM EECS 280 - DSA)</em></li>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - A Dialogflow (NLP-based chatbot generator) fulfillment project that connects google sheets to Dialogflow using nodejs. Link: https://github.com/hanifjilani/sheetbot</li>
-  <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) - EECS 280 (Umich Coding Class) </li>
   <li><b>The Amaanat</b> - This is an HTML/CSS info website for a Women's NGO.</li>
 </ul>
-<p><i><b>Note:</b> The Umich coding class projects are in private repositories as a part of the honor code of the University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. I also got permission from the owners of Amaanat to show my work to employers as well. So, if you are an employer/recruiter and want to see my work, please reach out to me!</i></p>
+<p><i><b>Note:</b> The UofM coding class projects are in private repositories as a part of the honor code of the University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. I also got permission from the owners of Amaanat to show my work to employers as well. So, if you are an employer/recruiter and want to see my work, please reach out to me!</i></p>
 
 <h3>My Youtube CS Tutorials</h3>
 <ul>
