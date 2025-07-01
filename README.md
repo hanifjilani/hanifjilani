@@ -33,7 +33,7 @@
 <h2>📝 Projects</h2>
 <h3>🕸️ Web Systems (EECS485 - UofM)</h3>
 <ul>
- <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs.</li>
+ <li><b>ask485? Search Engine</b> - Built a scalable Google-like search engine with a segmented inverted index using a pipeline of MapReduce jobs and a full-stack user interface.</li>
   <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals.</li>
   <li><b>insta485 Instagram Clone</b> - Built an Instagram clone using client-side dynamic pages and a REST API. Constructed a full-stack web app similar to Instagram to enable users to create posts, comments, and personalized profiles using Flask and React frameworks.</li>
 </ul>
