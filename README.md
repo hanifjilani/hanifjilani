@@ -68,7 +68,8 @@
 </ul>
 <p><i><b>Note:</b> The UofM coding class projects are in private repositories as a part of the honor code of the University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. I also got permission from the owners of Amaanat to show my work to employers as well. So, if you are an employer/recruiter and want to see my work, please reach out to me!</i></p>
 
-<h3>▶️ My Youtube CS Tutorials</h3>
+<h2>▶️ My Youtube CS Tutorials</h2>
+<br>
 <ul>
   <li><a href="https://youtu.be/YFE3S_O_cUY">How to integrate Google Sheets to DialogFlow (without Inline Editor)</a></li>
   <li><a href="https://youtu.be/wVOgch_uusg">How to create your own Weather Website using Nodejs</a></li>
