@@ -33,6 +33,8 @@
 <h2>📝 Projects</h2>
 <h3>🔐 Computer Security (EECS388 - UofM)</h3>
 <ul>
+ <li><b>Application Security</b> - Exploited stack and heap vulnerabilities across 9 targets to gain root shell access using buffer overflows, shellcode injection, return-address hijacking, DEP/ASLR bypasses, and ROP chains. Reverse-engineered binaries with Ghidra
+</li>
  <li><b>Networking Project</b> - Cracked WPA2, sniffed traffic, hijacked sessions, exploited command injection, escalated privileges, and detected SYN scans in a simulated enterprise network using Wireshark and Python</li>
  <li><b>Web Project</b> - Performed SQL Injection to extract user data, launched a self-replicating “Samy is my hero” XSS worm to hijack sessions, and exploited CSRF to modify grades on a vulnerable website</li>
 <li><b>Crypto Project</b> - Exploited vulnerabilities such as hash length-extension, MD5 collisions, padding oracle decryption, and RSA signature forgery</li>
