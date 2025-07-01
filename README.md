@@ -32,10 +32,13 @@
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
 <h3>📝 Completed Projects</h3>
+<h4>Web Systems (EECS485 - UofM)</h4>
 <ul>
-  <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
+ <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
   <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals. <em>(UofM EECS 485 - Web Systems)</em></li>
   <li><b>insta485 Instagram Clone</b> - Built an Instagram clone using client-side dynamic pages and a REST API. Constructed a full-stack web app similar to Instagram to enable users to create posts, comments, and personalized profiles using Flask and React frameworks. <em>(UofM EECS 485 - Web Systems)</em></li>
+</ul>
+<ul> 
   <li><b>Drones Tree Traversal</b> - Created an adaptable program that takes in data of coordinate points and utilizes heuristic programming and graph theory to efficiently find somewhat optimal paths or the most optimal path that visits each vertex in a map. <em>(UofM EECS 281 - Advanced DSA)</em></li>
   <li><b>SillyQL SQL Clone</b> - Engineered an enumeration of a relational database for data storage and retrieval in C++ 14 that supports efficient insert, remove, select, print, index, and join queries using Hash Tables, Red-Black Trees, and Comparators, and achieve top 10/1000 submissions in runtime. <em>(UofM EECS 281 - Advanced DSA)</em></li>
   <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in Eecs281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities. <em>(UofM EECS 281 - Advanced DSA)</em></li>
