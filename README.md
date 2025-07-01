@@ -1,6 +1,5 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 ## Hi, I'm Hanif Jilani! 👋
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "90" height = "60"/>
 <br>
  <p>🎓 Rising Senior at the University of Michigan – Ann Arbor, studying Computer Science Engineering. Passionate about coding, algorithms, and building tech that solves real-world problems.</p>
