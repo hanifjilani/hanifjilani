@@ -45,10 +45,13 @@
   <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions <em>(UofM EECS 281 - Advanced DSA)</em></li>
   <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. <em>(UofM EECS 281 - Advanced DSA)</em></li>
  </ul>
+ <h3>🧮 Data Structures & Algorithms (EECS280 - UofM)</h3>
  <ul>
   <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differentiate between different posts from a Social Media Website <em>(UofM EECS 280 - DSA)</em></li>
   <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) <em>(UofM EECS 280 - DSA)</em></li>
   <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) <em>(UofM EECS 280 - DSA)</em></li>
+ </ul>
+ <h3>Work & Personal Projects</h3>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - A Dialogflow (NLP-based chatbot generator) fulfillment project that connects google sheets to Dialogflow using nodejs. Link: https://github.com/hanifjilani/sheetbot</li>
   <li><b>The Amaanat</b> - This is an HTML/CSS info website for a Women's NGO.</li>
