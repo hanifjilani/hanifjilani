@@ -2,7 +2,7 @@
 
 <img align="right" src = "1200px-Michigan_Wolverines_logo.svg.png" width = "90" height = "60"/>
 <br>
- <p>🎓 Rising junior at the University of Michigan – Ann Arbor, studying Computer Science Engineering. Passionate about coding, algorithms, and building tech that solves real-world problems.</p>
+ <p>🎓 Rising Senior at the University of Michigan – Ann Arbor, studying Computer Science Engineering. Passionate about coding, algorithms, and building tech that solves real-world problems.</p>
 
 <p>💻 I love web dev, software projects, and DSA challenges. Self-taught and always learning.</p>
 
