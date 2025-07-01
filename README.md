@@ -31,6 +31,8 @@
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
 <h2>📝 Projects</h2>
+📂 **More Projects & Details**  
+View detailed writeups, screenshots, and code insights on my [Projects Page](https://yourwebsite.com/projects).
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
 <ul>
  <li><b>LC2K Cache Simulator</b> - Extended a pipelined LC2K simulator in C to include a unified instruction/data cache with configurable block size, associativity, write-back policy, and LRU replacement. Logged all cache hits, misses, writebacks, and memory transfers</li>
