@@ -33,6 +33,7 @@
 <h2>📝 Projects</h2>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
 <ul>
+ <li><b>LC2K Cache Simulator</b> - Extended a pipelined LC2K simulator in C to include a unified instruction/data cache with configurable block size, associativity, write-back policy, and LRU replacement. Logged all cache hits, misses, writebacks, and memory transfers</li>
  <li><b>LC2K Pipeline Simulator</b> - Built a cycle-accurate, 5-stage pipelined simulator in C with support for data forwarding, pipeline stalls, and single-cycle branch prediction</li>
  <li><b>LC2K Linker</b> - Built a multi-file assembler and linker in C to generate object files with symbol tables and apply label relocation across different files for final machine code output</li>
  <li><b>LC2K Toolchain</b> - Built an assembler, simulator, and optimized loop-based assembly-level multiplier for a custom 32-bit LC2K architecture in C</li>
