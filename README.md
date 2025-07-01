@@ -52,6 +52,7 @@
   <li><b>Computer Vision</b> - Implemented seam-carving algorithm in C++ for intelligent image resizing</li>
  </ul>
  <h3>🧑‍💻 Work & Personal Projects</h3>
+ <ul>
   <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. Link: https://github.com/hanifjilani/sheetbot</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
