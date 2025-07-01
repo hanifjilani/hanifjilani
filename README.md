@@ -33,6 +33,7 @@
 <h2>📝 Projects</h2>
 <h3>🔐 Computer Security (EECS388 - UofM)</h3>
 <ul>
+ <li><b>Digital Forensics CTF</b> - Solved a CTF-style investigation by analyzing a compromised disk image using Autopsy, Linux tools, and password cracking. Recovered deleted files, extracted artifacts, and reconstructed a timeline to trace digital evidence in a simulated data theft case</li>
  <li><b>Application Security</b> - Exploited stack and heap vulnerabilities across 9 targets to gain root shell access using buffer overflows, shellcode injection, return-address hijacking, DEP/ASLR bypasses, and ROP chains. Reverse-engineered binaries with Ghidra
 </li>
  <li><b>Networking Project</b> - Cracked WPA2, sniffed traffic, hijacked sessions, exploited command injection, escalated privileges, and detected SYN scans in a simulated enterprise network using Wireshark and Python</li>
