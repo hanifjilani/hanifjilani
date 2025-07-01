@@ -4,7 +4,7 @@
 <br>
  <p>🎓 Rising Senior at the University of Michigan – Ann Arbor, studying Computer Science Engineering. Passionate about coding, algorithms, and building tech that solves real-world problems.</p>
 
-<p>💻 I love web dev, software projects, and DSA challenges. Self-taught and always learning.</p>
+<p>💻 I love web dev, software projects, and DSA challenges. Curious and always learning.</p>
 
 <p>♟️ Outside of code, I enjoy chess, sci-fi, open-source, and student research collabs.</p>
 
