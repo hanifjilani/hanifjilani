@@ -31,6 +31,12 @@
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
 <h2>📝 Projects</h2>
+<h3>🔐 Computer Security (EECS388 - UofM)</h3>
+<ul>
+<li><b>Crypto Project</b> - Exploited vulnerabilities such as hash length-extension, MD5 collisions, padding oracle decryption, and RSA signature forgery</li>
+ <li><b>Web Project</b> - Performed SQL Injection to extract user data, launched a self-replicating “Samy is my hero” XSS worm to hijack sessions, and exploited CSRF to modify grades on a vulnerable website</li>
+ 
+</ul>
 <h3>🕸️ Web Systems (EECS485 - UofM)</h3>
 <ul>
  <li><b>ask485? Search Engine</b> - Built a scalable Google-like search engine with a segmented inverted index using a pipeline of MapReduce jobs and a full-stack user interface</li>
