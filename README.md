@@ -32,7 +32,7 @@
   <img alt = "Google Cloud" src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />  
 </p>
 <h3>📝 Completed Projects</h3>
-<h4>Web Systems (EECS485 - UofM)</h4>
+<h4><i class="fas fa-server"></i> Web Systems (EECS485 - UofM)</h4>
 <ul>
  <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
   <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals. <em>(UofM EECS 485 - Web Systems)</em></li>
