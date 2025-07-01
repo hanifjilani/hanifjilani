@@ -33,7 +33,8 @@
 <h2>📝 Projects</h2>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
 <ul>
- <li><b>LC2K Linker</b> - Built a multi-file assembler and linker in C to generate object files with symbol tables and apply label relocation across modules for final machine code output</li>
+ <li><b>LC2K Pipeline Simulator</b> - Built a cycle-accurate, 5-stage pipelined simulator in C with support for data forwarding, pipeline stalls, and single-cycle branch prediction</li>
+ <li><b>LC2K Linker</b> - Built a multi-file assembler and linker in C to generate object files with symbol tables and apply label relocation across different files for final machine code output</li>
  <li><b>LC2K Toolchain</b> - Built an assembler, simulator, and optimized loop-based assembly-level multiplier for a custom 32-bit LC2K architecture in C</li>
 </ul>
 <h3>🔐 Computer Security (EECS388 - UofM)</h3>
