@@ -33,28 +33,28 @@
 <h2>📝 Projects</h2>
 <h3>🕸️ Web Systems (EECS485 - UofM)</h3>
 <ul>
- <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs. <em>(UofM EECS 485 - Web Systems)</em></li>
-  <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals. <em>(UofM EECS 485 - Web Systems)</em></li>
-  <li><b>insta485 Instagram Clone</b> - Built an Instagram clone using client-side dynamic pages and a REST API. Constructed a full-stack web app similar to Instagram to enable users to create posts, comments, and personalized profiles using Flask and React frameworks. <em>(UofM EECS 485 - Web Systems)</em></li>
+ <li><b>ask485? Search Engine</b> - Built a scalable search engine with a user interface that returns search results similar to Google or Bing. Created a segmented inverted index of web pages using a pipeline of MapReduce programs.</li>
+  <li><b>MapReduce Clone</b> - A single machine, multi-process, multi-threaded server that executes user-submitted MapReduce jobs. Utilizes TCP communication for sending signals between the Manager and Workers. UDP communication for heartbeat signals.</li>
+  <li><b>insta485 Instagram Clone</b> - Built an Instagram clone using client-side dynamic pages and a REST API. Constructed a full-stack web app similar to Instagram to enable users to create posts, comments, and personalized profiles using Flask and React frameworks.</li>
 </ul>
 <h3>🧬 Advanced Data Structures & Algorithms (EECS281 - UofM)</h3>
 <ul> 
-  <li><b>Drones Tree Traversal</b> - Created an adaptable program that takes in data of coordinate points and utilizes heuristic programming and graph theory to efficiently find somewhat optimal paths or the most optimal path that visits each vertex in a map. <em>(UofM EECS 281 - Advanced DSA)</em></li>
-  <li><b>SillyQL SQL Clone</b> - Engineered an enumeration of a relational database for data storage and retrieval in C++ 14 that supports efficient insert, remove, select, print, index, and join queries using Hash Tables, Red-Black Trees, and Comparators, and achieve top 10/1000 submissions in runtime. <em>(UofM EECS 281 - Advanced DSA)</em></li>
-  <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in Eecs281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities. <em>(UofM EECS 281 - Advanced DSA)</em></li>
-  <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions <em>(UofM EECS 281 - Advanced DSA)</em></li>
-  <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<>. <em>(UofM EECS 281 - Advanced DSA)</em></li>
+  <li><b>Drones Tree Traversal</b> - Created an adaptable program that takes in data of coordinate points and utilizes heuristic programming and graph theory to efficiently find somewhat optimal paths or the most optimal path that visits each vertex in a map.</li>
+  <li><b>SillyQL SQL Clone</b> - Engineered an enumeration of a relational database for data storage and retrieval in C++ 14 that supports efficient insert, remove, select, print, index, and join queries using Hash Tables, Red-Black Trees, and Comparators, and achieve top 10/1000 submissions in runtime.</li>
+  <li><b>Priority Queue Implementation</b> - Successfully implemented three priority queue containers adhering to the given interface in EECS281PQ.h. Developed and tested Sorted Array, Binary Heap, and Pairing Heap priority queues, each with specific runtime requirements and functionalities.</li>
+  <li><b>Mine Escape</b> - Implemented a pathfinding simulation with a priority-based search using a priority queue. Dynamically cleared rubble and TNT tiles by strategically choosing the "easiest" tile with the lowest blast cost. Successfully handled tie-breaking scenarios based on column and row coordinates. Utilized multiple deques to maintain strict ordering and priority restrictions</li>
+  <li><b>Letterman</b> - Implemented breadth-first search (BFS) and depth-first search (DFS) for word transformations with strict rules. Maximized memory and runtime efficiency through custom data structures, leveraging std::vector<> and std::deque<></li>
  </ul>
  <h3>🧮 Data Structures & Algorithms (EECS280 - UofM)</h3>
  <ul>
-  <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differentiate between different posts from a Social Media Website <em>(UofM EECS 280 - DSA)</em></li>
-  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players) <em>(UofM EECS 280 - DSA)</em></li>
-  <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++) <em>(UofM EECS 280 - DSA)</em></li>
+  <li><b>Piazza Classifier</b> - Using NLP and ML Techniques to differentiate between different posts from a Social Media Website</li>
+  <li><b>Euchre</b> - Popular Card Game in Michigan (Supports AI player & Human Players)</li>
+  <li><b>Computer Vision</b> - Image Resizing Program using a Seam-Carving Algorithm (C++)</li>
  </ul>
- <h3>Work & Personal Projects</h3>
+ <h3>🧑‍💻 Work & Personal Projects</h3>
   <li><b>Weathry</b> - A weather website I made that uses Nodejs to handle a RESTful API and shows the users the weather and dynamically changes pages depending on the weather. Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - A Dialogflow (NLP-based chatbot generator) fulfillment project that connects google sheets to Dialogflow using nodejs. Link: https://github.com/hanifjilani/sheetbot</li>
-  <li><b>The Amaanat</b> - This is an HTML/CSS info website for a Women's NGO.</li>
+  <li><b>The Amaanat</b> - This is an HTML/CSS info website for a Women's NGO</li>
 </ul>
 <p><i><b>Note:</b> The UofM coding class projects are in private repositories as a part of the honor code of the University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. I also got permission from the owners of Amaanat to show my work to employers as well. So, if you are an employer/recruiter and want to see my work, please reach out to me!</i></p>
 
