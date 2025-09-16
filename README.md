@@ -34,7 +34,7 @@
 <p>For detailed writeups, screenshots, and code insights, visit https://hanifjilani.com/projects.html</p>
 <h3>🧑‍💻 Work & Personal Projects</h3>
  <ul>
-  <li><a href="https://github.com/hanifjilani/hand-cricket"><b>Hand Cricket Game</b></a> – Built a real-time CV game using MediaPipe and a custom ML classifier to detect hand gestures (1–10).
+  <li><b>Hand Cricket Game</b> – Built a real-time CV game using MediaPipe and a custom ML classifier to detect hand gestures (1–10).
    
    Link: https://github.com/hanifjilani/hand-cricket</li>
   <li><b>Interview with AI</b> - Developed an AI tool that generates tailored technical and behavioral questions from resumes or job descriptions. 
