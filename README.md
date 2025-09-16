@@ -34,6 +34,7 @@
 <p>For detailed writeups, screenshots, and code insights, visit https://hanifjilani.com/projects.html</p>
 <h3>🧑‍💻 Work & Personal Projects</h3>
  <ul>
+  <li><b>Hand Cricket Game</b> – Built a real-time computer vision game in Python using MediaPipe and a custom ML classifier to detect hand gestures (1–10) via webcam.</li>
   <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. Link: https://github.com/hanifjilani/sheetbot</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
