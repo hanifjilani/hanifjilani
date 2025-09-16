@@ -32,6 +32,12 @@
 </p>
 <h2>📝 Projects</h2>
 <p>For detailed writeups, screenshots, and code insights, visit https://hanifjilani.com/projects.html</p>
+<h3>🧑‍💻 Work & Personal Projects</h3>
+ <ul>
+  <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. Link: https://github.com/hanifjilani/weathry
+  <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. Link: https://github.com/hanifjilani/sheetbot</li>
+  <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
+</ul>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
 <ul>
  <li><b>LC2K Cache Simulator</b> - Extended a pipelined LC2K simulator in C to include a unified instruction/data cache with configurable block size, associativity, write-back policy, and LRU replacement. Logged all cache hits, misses, writebacks, and memory transfers</li>
@@ -68,12 +74,7 @@
   <li><b>Euchre</b> - Developed an AI-supported card game engine with multiplayer support.</li>
   <li><b>Computer Vision</b> - Implemented seam-carving algorithm in C++ for intelligent image resizing</li>
  </ul>
- <h3>🧑‍💻 Work & Personal Projects</h3>
- <ul>
-  <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. Link: https://github.com/hanifjilani/weathry
-  <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. Link: https://github.com/hanifjilani/sheetbot</li>
-  <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
-</ul>
+ 
 <p><i><b>Note:</b> The UofM coding class projects are in private repositories as a part of the honor code of the University of Michigan. However, as per the honor code, I am allowed to show my work to employers and recruiters. I also got permission from the owners of Amaanat to show my work to employers as well. So, if you are an employer/recruiter and want to see my work, please reach out to me!</i></p>
 
 <h2>▶️ My Youtube CS Tutorials</h2>
