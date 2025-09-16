@@ -40,8 +40,12 @@
   <li><b>Interview with AI</b> - Developed an AI tool that generates tailored technical and behavioral questions from resumes or job descriptions. 
    
    Link: https://github.com/hanifjilani/Interview_with_AI</li>
-  <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. Link: https://github.com/hanifjilani/weathry
-  <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. Link: https://github.com/hanifjilani/sheetbot</li>
+  <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. 
+   
+   Link: https://github.com/hanifjilani/weathry
+  <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. 
+   
+   Link: https://github.com/hanifjilani/sheetbot</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
 </ul>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
