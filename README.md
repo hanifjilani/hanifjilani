@@ -46,6 +46,9 @@
   <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. 
    
    Link: https://github.com/hanifjilani/sheetbot</li>
+   <li><b>Do It List (Chrome Extension)</b> – Created a lightweight productivity extension with persistent local storage and a minimal, fast UI. Currently 30+ users.
+   
+   Link: https://chromewebstore.google.com/detail/gilejpbhjgndhagjfhljpjehpohmciof?utm_source=item-share-cb</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
 </ul>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
