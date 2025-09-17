@@ -50,7 +50,10 @@
   <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. 
    
    Link: https://github.com/hanifjilani/sheetbot</li>
+
+   <li><b>Linkly UI</b>
    
+   Link: https://youtu.be/HMyoVHuHcyU</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
 </ul>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
