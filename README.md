@@ -44,16 +44,16 @@
    
    Link: https://chromewebstore.google.com/detail/gilejpbhjgndhagjfhljpjehpohmciof?utm_source=item-share-cb</li>
    
+   <li><b>Linkly UI</b> - Designed a modern, responsive React Nextjs landing page with framer-motion animations for an LinkedIn-based AI startup.
+   
+   Link: https://youtu.be/HMyoVHuHcyU</li>
+   
   <li><b>Weathry</b> - Node.js-based weather web app with dynamic UI based on real-time API data. 
    
    Link: https://github.com/hanifjilani/weathry
   <li><b>Sheetbot</b> - Dialogflow chatbot integration with Google Sheets using Node.js. 
    
    Link: https://github.com/hanifjilani/sheetbot</li>
-
-   <li><b>Linkly UI</b> - Designed a modern, responsive React Nextjs landing page with framer-motion animations for an LinkedIn-based AI startup.
-   
-   Link: https://youtu.be/HMyoVHuHcyU</li>
 </ul>
 <h3>💻 Computer Architecture (EECS370 – UofM)</h3>
 <ul>
