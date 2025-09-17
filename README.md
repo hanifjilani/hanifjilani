@@ -51,7 +51,7 @@
    
    Link: https://github.com/hanifjilani/sheetbot</li>
 
-   <li><b>Linkly UI</b>
+   <li><b>Linkly UI</b> - Designed a modern, responsive React Nextjs landing page with framer-motion animations for an LinkedIn-based AI startup.
    
    Link: https://youtu.be/HMyoVHuHcyU</li>
   <li><b>The Amaanat</b> - Informational website for a Women’s NGO built with HTML/CSS</li>
